@@ -61,7 +61,7 @@ This metric enabled a balanced assessment across the different clustering models
 3. **Domain-Specific Applications**
    - This clustering approach could aid in train delay predictions and optimizing scheduling based on high-flow periods.
 
-## 🗓️ Visual Results
+## 🌅 Visual Results
 
 ### 🗓️ Calendar Graph
 <img src="https://github.com/user-attachments/assets/094c16d6-ca6a-465b-939e-5fb21e573198" width="400">
